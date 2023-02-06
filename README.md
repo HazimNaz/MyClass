@@ -1,4 +1,6 @@
-# Template
+# MyClass
+
+MyClass is an e-learning platform for students and teachers to manage and organize their online class
 
 ## How to generate a random token
 1. Open terminal and type this command to launch the Node shell.
